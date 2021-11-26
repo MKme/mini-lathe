@@ -13,7 +13,7 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 
 MAKE ALL THE THINGZ!  I got me a mini lathe
 
-<img src="https://github.com/MKme/mini-lathe/blob/main/Lathe%20and%20parts%20I%20got/s-l1600.jpg/>
+<img src="https://github.com/MKme/mini-lathe/blob/main/Lathe%20and%20parts%20I%20got/s-l1600.jpg"/>
 
 ## Parts:
 

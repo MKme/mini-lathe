@@ -16,7 +16,6 @@ MAKE ALL THE THINGZ!  I got me a mini lathe
 
 ## Parts:
 
-
 All the parts Ive used to upgrade this lathe
 
 
@@ -35,13 +34,16 @@ All the parts Ive used to upgrade this lathe
 
 ## Tools
 
-
-All the parts Ive used to upgrade this lathe
+Tools & supplies used in the lathe vids
 
 
 |     Tools    | Source  |
 | ---------- |----------------|
 | Digital Vernier Calipers | https://amzn.to/3HVXWn2
+| Sharpie 38264PP Permanent Markers, Chisel Tip, Black | https://amzn.to/3cTo3wk
+| 3-IN-ONE 100355 Multi-Purpose Oil | https://amzn.to/3nX0zNr
+
+
 
 ### Full video here:
 

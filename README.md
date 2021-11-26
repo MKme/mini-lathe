@@ -23,7 +23,7 @@ Buy a kit on my store here: https://store.mkme.org/?product=diy-engine-doctor-es
 |     Component    | Source  |
 | ---------- |----------------|
 | Lathe | https://amzn.to/3CXCyKh
-| AnNafi Factory Mini Parting Tool Holder with 6 Pcs | HSS Blades | https://amzn.to/3oWLUkk
+| AnNafi Factory Mini Parting Tool Holder with 6 Pcs HSS Blades | https://amzn.to/3oWLUkk
 | Knurling Wheel Tool, Steel Dual Wheel Slant Teeth Diagonal Wheel Linear Knurled Wheel Set 0.5mm 1mm 2mm Pitch for Lathe | https://amzn.to/3ldGQHw
 | 4pcs Quick Change Lathe Tool Holder Mini Lathe Post Holder Kit Boring Blade Turning Facing Holder Set | https://amzn.to/3FPjZcZ
 | Aluminum Alloy Quick Change Tool Post and Holder Kit  | https://amzn.to/3lbqkaM

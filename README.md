@@ -11,7 +11,11 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 
 # mini-lathe
 
-MAKE ALL THE THINGZ!  I got me a mini lathe
+I got a 7-14" mini lathe for projects and home manufacturing. With this we can finally machine our own bushings, mounts, threads etc. 
+
+Since this is a cheap Chinese lathe it needs some upgrades to make it usable but I'm certain we can make this a fun and informational video series while 
+
+we use it for project builds too. This is the lathe I got: 
 
 <img src="https://github.com/MKme/mini-lathe/blob/main/Lathe%20and%20parts%20I%20got/s-l1600.jpg"/>
 
@@ -46,6 +50,13 @@ Tools & supplies used in the lathe vids
 
 
 
-### Full video here:
+### Full videos here:
 
-tbd
+Full Unboxing/Setup Video (long): 
+
+Edited Unboxing/Setup Video (short):
+
+Modification and Upgrades Part 1:
+
+Modifications and Upgrades part 2:
+

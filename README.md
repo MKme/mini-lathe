@@ -33,6 +33,16 @@ All the parts Ive used to upgrade this lathe
 | LANTRO JS - 30 LED Magnetic Sewing Machine Light with Magnetic Base    | https://amzn.to/3cPTw2q
 | Fafeicy MT2 Triple Bearing Live Center, for High Speed Lathe, CNC Lathe | https://amzn.to/3CWDLSa
 
+## Tools
+
+
+All the parts Ive used to upgrade this lathe
+
+
+|     Tools    | Source  |
+| ---------- |----------------|
+| Digital Vernier Calipers | https://amzn.to/3HVXWn2
+
 ### Full video here:
 
 tbd

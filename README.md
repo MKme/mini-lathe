@@ -27,6 +27,7 @@ All the parts Ive used to upgrade this lathe
 |     Component    | Source  |
 | ---------- |----------------|
 | 7" x 14",Mini Metal Lathe 0-2500 RPM Variable Speed | https://amzn.to/3CXCyKh
+| 1/2" CNC Metal Indexable Lathe Tool Sets 3pcs DCMT21.51 Turning Inserts, Holder SDNCN1212H07 SDJCR1212H07 SDJCL1212H07 | https://amzn.to/30ZXB1v
 | AnNafi Factory Mini Parting Tool Holder with 6 Pcs HSS Blades | https://amzn.to/3oWLUkk
 | Knurling Wheel Tool, Steel Dual Wheel Slant Teeth Diagonal Wheel Linear Knurled Wheel Set 0.5mm 1mm 2mm Pitch for Lathe | https://amzn.to/3ldGQHw
 | 4pcs Quick Change Lathe Tool Holder Mini Lathe Post Holder Kit Boring Blade Turning Facing Holder Set | https://amzn.to/3FPjZcZ

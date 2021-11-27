@@ -52,6 +52,10 @@ Tools & supplies used in the lathe vids
 
 
 
+## Tips
+
+- For cooling on aluminum use alcohol as leaves no mess (steel use oil) 
+
 ### Full videos here:
 
 Full Unboxing/Setup Video (long): 

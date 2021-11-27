@@ -52,9 +52,14 @@ Tools & supplies used in the lathe vids
 
 
 
-## Tips
+##  Tips
 
 - For cooling on aluminum use alcohol as leaves no mess (steel use oil) 
+
+- Bangood Thread cutter bit good up to M12 not bigger 
+
+
+
 
 ### Full videos here:
 

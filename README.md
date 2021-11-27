@@ -48,6 +48,7 @@ Tools & supplies used in the lathe vids
 | Digital Vernier Calipers | https://amzn.to/3HVXWn2
 | Sharpie 38264PP Permanent Markers, Chisel Tip, Black | https://amzn.to/3cTo3wk
 | 3-IN-ONE 100355 Multi-Purpose Oil | https://amzn.to/3nX0zNr
+| Flux bottle for cooling/cutting liquid | https://ebay.us/nJL4Ag 
 
 
 

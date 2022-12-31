@@ -23,6 +23,9 @@ we use it for project builds too. This is the lathe I got:
 
 All the parts Ive used to upgrade this lathe
 
+Vevor mini lathe on Amazon  https://amzn.to/3G8Ati3
+Mini lathe on Vevor (cheaper) https://shareasale.com/r.cfm?b=1508656&u=3336141&m=95592&urllink=&afftrack=
+
 
 |     Component    | Source  |
 | ---------- |----------------|
